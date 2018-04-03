@@ -11,4 +11,4 @@ of each PU fits a uniform distribution.
 You can find a simulation made with this script in /sample.  
 This simulation was set with 20 channels, encompassing variable parameters configurations.
 
-![sample plot](https://raw.githubusercontent.com/rogerscristo/MARIO/master/sample/sample.png)
+![sample plot](https://github.com/rogerscristo/MARIO/blob/master/sample/sample.png)
